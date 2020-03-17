@@ -1,4 +1,4 @@
-# Load Corvid-19 CSV from URL
+# Load Covid-19 CSV from URL
 import numpy as np
 
 def getCovidAttr(c19attr):
